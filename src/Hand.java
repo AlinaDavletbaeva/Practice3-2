@@ -25,6 +25,6 @@ public class Hand {
     }
 
     public String can() {
-        return isRight ? "берет правой рукой" : "берет левой рукой";
+        return isRight ? "двигает правой рукой" : "двигает левой рукой";
     }
 }

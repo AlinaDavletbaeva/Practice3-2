@@ -25,6 +25,6 @@ public class Head {
     }
 
     public String can() {
-        return "смотрит и думает";
+        return "пытается понять Java";
     }
 }
